@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
+![384872bb8beb425f8157397ace0e7714](https://github.com/Zebra64/Zebra64/assets/75133897/7578364f-58d7-43d7-88a6-0576a77b473e)<!--
 **3a1/3a1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
