@@ -2,5 +2,5 @@
 
 <details>
 <summary>Donation</summary>
-TVGWH8oiHZJGB31medxhRg8ouzX5etDJC5
+USDT(trc20) - TVGWH8oiHZJGB31medxhRg8ouzX5etDJC5
 </details>
